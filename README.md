@@ -9,7 +9,7 @@
 
 🌟 Uso meu GitHub como portifólio onde coloco anotações de aulas, projetos pessoais e acadêmicos.
 
-💡 Me segue no [Linkedin](www.linkedin.com/in/maria-júlia-soares-885a5b22b), posto sobre meus trabalhos lá!
+💡 Me siga no [Linkedin](www.linkedin.com/in/maria-júlia-soares-885a5b22b), posto sobre meus trabalhos lá!
 
 ### ⚙️ Analytics
 
