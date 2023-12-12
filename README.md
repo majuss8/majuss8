@@ -19,4 +19,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majuss8&layout=donut)](https://github.com/majuss8/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/majuss8/github-readme-stats)
