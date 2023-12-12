@@ -8,6 +8,7 @@
 📧 Pode entrar em contato comigo pelo meu [email](mailto:mjuliamary0@gmail.com)!
 
 🌟 Uso meu GitHub como portifólio onde coloco anotações de aulas, projetos pessoais e acadêmicos.
+
 💡 Me segue no [Linkedin](www.linkedin.com/in/maria-júlia-soares-885a5b22b), posto sobre meus trabalhos lá!
 
 ### ⚙️ Analytics
